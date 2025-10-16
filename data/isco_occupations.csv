@@ -1,0 +1,437 @@
+isco,occupation
+110,Offiziere in regulären Streitkräften
+210,Unteroffiziere in regulären Streitkräften
+310,Angehörige der regulären Streitkräfte in sonstigen Rängen
+1111,Angehörige gesetzgebender Körperschaften
+1112,Leitende Verwaltungsbedienstete
+1113,Traditionelle Dorf- und Stammeshäuptlinge
+1114,Leitende Bedienstete von Interessenorganisationen
+1120,Geschäftsführer und Vorstände
+1211,Führungskräfte im Bereich Finanzen
+1212,Führungskräfte im Personalwesen
+1213,Führungskräfte in Unternehmenspolitik und -planung
+1219,"Führungskräfte in der betrieblichen Verwaltung und in unternehmensbezogenen Dienstleistungen, anderweitig nicht genannt"
+1221,Führungskräfte in Vertrieb und Marketing
+1222,Führungskräfte in Werbung und Öffentlichkeitsarbeit
+1223,Führungskräfte in Forschung und Entwicklung
+1311,Führungskräfte in der Produktion in Land- und Forstwirtschaft
+1312,Führungskräfte in der Produktion in Aquakultur und Fischerei
+1321,Führungskräfte in der Produktion bei der Herstellung von Waren
+1322,Führungskräfte in der Produktion im Bergbau
+1323,Führungskräfte in der Produktion im Bau
+1324,"Führungskräfte in der Beschaffung, Logistik und in verwandten Bereichen"
+1330,Führungskräfte in der Erbringung von Dienstleistungen im Bereich Informations- und Kommunikationstechnologie
+1341,Führungskräfte in der Erbringung von Dienstleistungen der Kinderbetreuung
+1342,Führungskräfte in der Erbringung von Dienstleistungen im Gesundheitswesen
+1343,Führungskräfte in der Erbringung von Dienstleistungen der Altenbetreuung
+1344,Führungskräfte in der Erbringung von Dienstleistungen der Sozialfürsorge
+1345,Führungskräfte in der Erbringung von Dienstleistungen des Bildungswesens
+1346,Führungskräfte auf Filialebene in der Erbringung von Finanz- und Versicherungsdienstleistungen
+1349,"Führungskräfte in der Erbringung von speziellen Dienstleistungen, anderweitig nicht genannt"
+1411,Führungskräfte in Hotels
+1412,Führungskräfte in Restaurants
+1420,Führungskräfte in Groß- und Einzelhandel
+1431,"Führungskräfte in der Erbringung von Dienstleistungen im Bereich Sport, Erholung und Kultur"
+1439,"Führungskräfte in der Erbringung von Dienstleistungen, anderweitig nicht genannt"
+2111,Physiker und Astronomen
+2112,Meteorologen
+2113,Chemiker
+2114,Geologen und Geophysiker
+2120,"Mathematiker, Versicherungsmathematiker und Statistiker"
+2131,"Biologen, Botaniker, Zoologen und verwandte Berufe"
+2132,"Agrar-, Forst- und Fischereiwissenschaftler und -berater"
+2133,Umweltwissenschaftler
+2141,Wirtschafts- und Produktionsingenieure
+2142,Bauingenieure
+2143,Umweltschutzingenieure
+2144,Maschinenbauingenieure
+2145,Chemieingenieure
+2146,"Bergbauingenieure, Metallurgen und verwandte Berufe"
+2149,"Ingenieure, anderweitig nicht genannt"
+2151,Ingenieure im Bereich Elektrotechnik
+2152,Ingenieure im Bereich Elektronik
+2153,Ingenieure im Bereich Telekommunikationstechnik
+2161,Architekten
+2162,Landschaftsarchitekten
+2163,Produkt- und Textildesigner
+2164,"Raum-, Stadt- und Verkehrsplaner"
+2165,Kartografen und Vermessungsingenieure
+2166,Grafik- und Multimediadesigner
+2211,Allgemeinärzte
+2212,Fachärzte
+2221,Akademische und vergleichbare Krankenpflegefachkräfte
+2222,Akademische und vergleichbare Geburtshilfefachkräfte
+2230,Akademische und vergleichbare Fachkräfte in der traditionellen und komplementären Medizin
+2240,Feldscher und vergleichbare paramedizinische Praktiker
+2250,Tierärzte
+2261,Zahnärzte
+2262,Apotheker
+2263,Akademische und vergleichbare Fachkräfte in den Bereichen Umwelt- und Arbeitsmedizin sowie Hygiene
+2264,Physiotherapeuten
+2265,Diätologen und Ernährungsberater
+2266,Audiologen und Sprachtherapeuten
+2267,Optometristen und Orthoptisten
+2269,"Akademische und verwandte Gesundheitsberufe, anderweitig nicht genannt"
+2310,Universitäts- und Hochschullehrer
+2320,Lehrkräfte im Bereich Berufsbildung
+2330,Lehrkräfte im Sekundarbereich
+2341,Lehrkräfte im Primarbereich
+2342,Lehrkräfte und Erzieher im Vorschulbereich
+2351,Pädagogik- und Didaktikspezialisten
+2352,Lehrkräfte im Bereich Sonderpädagogik
+2353,Sonstige Sprachlehrer
+2354,Sonstige Musiklehrer
+2355,Sonstige Kunstlehrer
+2356,Ausbilder im Bereich Informationstechnologie
+2359,"Lehrkräfte, anderweitig nicht genannt"
+2411,"Wirtschaftsprüfer, Steuerberater und verwandte Berufe"
+2412,Finanz- und Anlageberater
+2413,Finanzanalysten
+2421,Akademische und vergleichbare Fachkräfte im Bereich Management- und Organisationsanalyse
+2422,Akademische und vergleichbare Fachkräfte in der strategischen Planung in Politik und Wirtschaft
+2423,Berufsberater und -analytiker und akademische und vergleichbare Personalfachleute
+2424,Fachkräfte in Personalschulung und -entwicklung
+2431,Akademische und vergleichbare Fachkräfte in Werbung und Marketing
+2432,Akademische und vergleichbare Fachkräfte in der Öffentlichkeitsarbeit
+2433,"Akademische und vergleichbare Fachkräfte im Bereich Vertrieb (Technik und Medizin, ohne Informations- und Kommunikationstechnologie)"
+2434,Akademische und vergleichbare Fachkräfte im Vertrieb von Informations- und Kommunikationstechnologie
+2511,Systemanalytiker
+2512,Softwareentwickler
+2513,Web- und Multimediaentwickler
+2514,Anwendungsprogrammierer
+2519,"Entwickler und Analytiker von Software und Anwendungen, anderweitig nicht genannt"
+2521,Datenbankentwickler und -administratoren
+2522,Systemadministratoren
+2523,Akademische und vergleichbare Fachkräfte für Computernetzwerke
+2529,"Akademische und vergleichbare Fachkräfte für Datenbanken und Netzwerke, anderweitig nicht genannt"
+2611,Anwälte
+2612,Richter
+2619,"Juristen, anderweitig nicht genannt"
+2621,Archiv- und Museumswissenschaftler
+2622,Bibliothekswissenschaftler und verwandte Informationswissenschaftler
+2631,Volkswirtschaftler
+2632,"Soziologen, Anthropologen und verwandte Wissenschaftler"
+2633,"Philosophen, Historiker und Politologen"
+2634,Psychologen
+2635,Sozialarbeiter
+2636,"Geistliche, Seelsorger"
+2641,Autoren und verwandte schriftstellerische Berufe
+2642,Journalisten
+2643,"Übersetzer, Dolmetscher und andere Linguisten"
+2651,Bildende Künstler
+2652,"Musiker, Sänger und Komponisten"
+2653,Tänzer und Choreografen
+2654,Regisseure und Produzenten im Film- und Bühnenbereich sowie in verwandten Bereichen
+2655,Schauspieler
+2656,"Sprecher im Rundfunk, Fernsehen und sonstigen Medien"
+2659,"Bildende und darstellende Künstler, anderweitig nicht genannt"
+3111,Chemo- und Physikotechniker
+3112,Bautechniker
+3113,Elektrotechniker
+3114,Techniker im Bereich Elektronik
+3115,Maschinenbautechniker
+3116,Chemiebetriebs- und Verfahrenstechniker
+3117,Bergbau- und Hüttentechniker
+3118,Technische Zeichner
+3119,"Material- und ingenieurtechnische Fachkräfte, anderweitig nicht genannt"
+3121,Produktionsleiter im Bergbau
+3122,Produktionsleiter bei der Herstellung von Waren
+3123,Bauleiter
+3131,Steuerer von Energieerzeugungsanlagen
+3132,Steuerer von Verbrennungs- und Wasserbehandlungsanlagen
+3133,Steuerer von chemischen Verfahrensanlagen
+3134,Steuerer von Erdöl- und Erdgasraffinationsanlagen
+3135,Steuerer von Verfahren in der Metallerzeugung
+3139,"Techniker in der Prozesssteuerung, anderweitig nicht genannt"
+3141,Biotechniker (ohne medizinische Fachberufe)
+3142,Agrartechniker
+3143,Forsttechniker
+3151,Technische Schiffsoffiziere
+3152,"Schiffsführer, nautische Schiffsoffiziere und Schiffslotsen"
+3153,Flugzeugführer und verwandte Berufe
+3154,Flugverkehrslotsen
+3155,Flugsicherungstechniker
+3211,Medizintechniker im Bereich bildgebende Verfahren und Therapiegeräte
+3212,Medizintechniker im Bereich Labor und Pathologie
+3213,Pharmazeutisch-technische Assistenten
+3214,Medizinische und zahnmedizinische Prothetiktechniker
+3221,Nicht akademische Krankenpflegefachkräfte
+3222,Nicht akademische Geburtshilfefachkräfte
+3230,Nicht akademische Fachkräfte in traditioneller und komplementärer Medizin
+3240,Veterinärmedizinische Fachkräfte und Assistenten
+3251,Zahnmedizinische Assistenten und Dentalhygieniker
+3252,Fachkräfte im Bereich medizinische Dokumentation und Information
+3253,Fachkräfte in der öffentlichen Gesundheitsfürsorge
+3254,Augenoptiker
+3255,Physiotherapeutische Techniker und Assistenten
+3256,Medizinische Assistenten
+3257,Nicht akademische Kontrolleure und Beauftragte in den Bereichen Umwelt- und Arbeitsmedizin sowie verwandte Berufe
+3258,Rettungsdienstpersonal
+3259,"Assistenzberufe im Gesundheitswesen, anderweitig nicht genannt"
+3311,"Wertpapierhändler, -makler und Finanzmakler"
+3312,Kreditsachbearbeiter
+3313,Nicht akademische Fachkräfte im Rechnungswesen
+3314,"Nicht akademische statistische, mathematische und verwandte Fachkräfte"
+3315,Schätzer und Schadensgutachter
+3321,Versicherungsvertreter
+3322,Vertriebsagenten
+3323,Einkäufer
+3324,Handelsmakler
+3331,Fachkräfte für Abrechnungs- und Speditionsdienstleistungen
+3332,Konferenz- und Veranstaltungsplaner
+3333,Arbeits- und Personalvermittler
+3334,Immobilienmakler und -verwalter
+3339,"Fachkräfte für unternehmensbezogene Dienstleistungen, anderweitig nicht genannt"
+3341,Sekretariatsleiter
+3342,Sekretariatsfachkräfte im juristischen Bereich
+3343,Sekretariatsfachkräfte in Verwaltung und Geschäftsleitung
+3344,Sekretariatsfachkräfte im Gesundheitswesen
+3351,Fachkräfte im Zolldienst und Grenzschutz
+3352,Fachkräfte in der Steuerverwaltung
+3353,Fachkräfte in Sozialverwaltung und -versicherung
+3354,"Fachkräfte bei staatlichen Pass-, Lizenz- und Genehmigungsstellen"
+3355,Polizeikommissare und Kriminalbeamte
+3359,"Fachkräfte in der öffentlichen Verwaltung, anderweitig nicht genannt"
+3411,Nicht akademische Fachkräfte für Rechts- und verwandte Angelegenheiten
+3412,Nicht akademische sozialpflegerische Fachkräfte
+3413,Ordensbrüder/-schwestern und Seelsorgehelfer
+3421,Athleten und Berufssportler
+3422,"Sportlehrer, Sporttrainer und Sportfunktionäre"
+3423,Trainer und Betreuer im Bereich Fitness und Erholung
+3431,Fotografen
+3432,Raumgestalter und Dekorateure
+3433,"Fachkräfte in Kunstgalerien, Museen und Bibliotheken"
+3434,Küchenchefs
+3435,Sonstige Fachkräfte in Gestaltung und Kultur
+3511,Techniker für den Betrieb von Informations- und Kommunikationstechnologie
+3512,Techniker für die Anwenderbetreuung in der Informations- und Kommunikationstechnologie
+3513,Techniker für Computernetzwerke und -systeme
+3514,Webmaster
+3521,Techniker für Rundfunk und audiovisuelle Medien
+3522,Telekommunikationstechniker
+4110,Allgemeine Bürokräfte
+4120,Sekretariatskräfte (allgemein)
+4131,Schreibkräfte und Bediener von Textverarbeitungsanlagen
+4132,Datenerfasser
+4211,Bank- und andere Schalterbedienstete
+4212,"Buchmacher, Croupiers und verwandte Berufe im Bereich Glücks- und Wettspiele"
+4213,Pfandleiher und Geldverleiher
+4214,Inkassobeauftragte und verwandte Berufe
+4221,Reiseverkehrsfachkräfte
+4222,Kundeninformationsfachkräfte in Call Centers
+4223,Telefonisten
+4224,Hotelrezeptionisten
+4225,Auskunftspersonal
+4226,Empfangskräfte (allgemein)
+4227,Interviewer im Bereich Umfragen und Marktforschung
+4229,"Berufe im Bereich Kundeninformation, anderweitig nicht genannt"
+4311,Bürokräfte im Rechnungswesen und in der Buchhaltung
+4312,"Bürokräfte in der Statistik, im Finanz- und Versicherungswesen"
+4313,Bürokräfte in der Lohnbuchhaltung
+4321,Fachkräfte in der Lagerwirtschaft
+4322,Bürokräfte in der Material- und Fertigungsplanung und verwandte Berufe
+4323,Bürokräfte in der Transportwirtschaft und verwandte Berufe
+4411,Bibliotheksassistenten
+4412,Postverteiler und -sortierer
+4413,"Kodierer, Korrekturleser und verwandte Bürokräfte"
+4414,Schreiber und verwandte Arbeitskräfte
+4415,Bürokräfte für Registratur und Dokumentation
+4416,Bürokräfte im Personalwesen
+4419,"Bürokräfte und verwandte Berufe, anderweitig nicht genannt"
+5111,Reisebegleiter und Stewards
+5112,Schaffner
+5113,Reiseleiter/Fremdenführer
+5120,Köche
+5131,Kellner
+5132,Barkeeper
+5141,Friseure
+5142,Kosmetiker und verwandte Berufe
+5151,"Reinigungs- und Hauswirtschaftsleiter in Büros, Hotels und anderen Einrichtungen"
+5152,Hauswirtschafter in Privathaushalten
+5153,Hauswarte
+5161,"Astrologen, Wahrsager und verwandte Berufe"
+5162,Gesellschafter und Zofen/Kammerdiener
+5163,Bestatter und Einbalsamierer
+5164,Tierpfleger und -betreuer
+5165,Fahrschullehrer
+5169,"Berufe im Bereich personenbezogener Dienstleistungen, anderweitig nicht genannt"
+5211,Verkaufsstand- und Marktverkäufer
+5212,Straßenverkäufer von Lebensmitteln
+5221,Leiter eines Einzelhandelsgeschäftes
+5222,Verkaufsaufsichtskräfte in Handelsgeschäften
+5223,Verkäufer und Verkaufshilfskräfte in Handelsgeschäften
+5230,Kassierer und Kartenverkäufer
+5241,Mannequins/Dressmen und sonstige Modelle
+5242,Produktvorführer
+5243,Haustürverkäufer
+5244,Telefonverkäufer
+5245,Tankwarte
+5246,Imbissverkäufer
+5249,"Verkaufskräfte, anderweitig nicht genannt"
+5311,Kinderbetreuer
+5312,Lernbetreuer
+5321,Pflegehelfer
+5322,Haus- und Familienpfleger
+5329,"Betreuungsberufe im Gesundheitswesen, anderweitig nicht genannt"
+5411,Feuerwehrleute
+5412,Polizisten (ohne Polizeikommissare)
+5413,Gefängnisaufseher
+5414,Sicherheitswachpersonal
+5419,"Schutzkräfte und Sicherheitsbedienstete, anderweitig nicht genannt"
+6111,Ackerbauern und Gemüseanbauer
+6112,Baum- und Strauchfrüchteanbauer
+6113,"Gärtner, Saat- und Pflanzenzüchter"
+6114,Fachkräfte in der Mischkulturlandwirtschaft
+6121,Nutztierhalter (ohne Geflügel) und Milchproduzenten
+6122,Geflügelhalter
+6123,Imker und Seidenraupenzüchter
+6129,"Tierhalter, anderweitig nicht genannt"
+6130,Landwirte mit Ackerbau und Tierhaltung (ohne ausgeprägten Schwerpunkt)
+6210,Forstarbeitskräfte und verwandte Berufe
+6221,Fachkräfte im Bereich Aquakultur
+6222,Binnen- und Küstenfischer
+6223,Hochseefischer
+6224,Jäger und Fallensteller
+6310,Ackerbauern für den Eigenbedarf
+6320,Nutztierhalter für den Eigenbedarf
+6330,Ackerbauern und Nutztierhalter (ohne ausgeprägten Schwerpunkt) für den Eigenbedarf
+6340,"Fischer, Jäger, Fallensteller und Sammler für den Eigenbedarf"
+7111,Rohbaufacharbeiter im Hochbau
+7112,Maurer und verwandte Berufe
+7113,"Steinmetze, Steinspalter, -bearbeiter und Steinbildhauer"
+7114,"Betonierer, Betonoberflächenfertiger und verwandte Berufe"
+7115,Zimmerleute und Bautischler
+7119,"Baukonstruktions- und verwandte Berufe, anderweitig nicht genannt"
+7121,Dachdecker
+7122,Boden- und Fliesenleger
+7123,Stuckateure
+7124,Isolierer
+7125,Glaser
+7126,Bauspengler und Sanitär- und Heizungsinstallateure
+7127,Klima- und Kälteanlagenbauer
+7131,Maler und verwandte Berufe
+7132,Lackierer und verwandte Berufe
+7133,Fassadenreiniger und Schornsteinfeger/Rauchfangkehrer
+7211,Former und Kernmacher (für Metallguss)
+7212,Schweißer und Brennschneider
+7213,Blechkaltverformer
+7214,Baumetallverformer und Metallbauer
+7215,Verspannungsmonteure und Seilspleißer
+7221,"Grobschmiede, Hammerschmiede und Schmiedepresser"
+7222,Werkzeugmechaniker und verwandte Berufe
+7223,Werkzeugmaschineneinrichter und -bediener
+7224,"Metallpolierer, Rundschleifer und Werkzeugschärfer"
+7231,Kraftfahrzeugmechaniker und -schlosser
+7232,Flugmotorenmechaniker und -schlosser
+7233,Landmaschinen- und Industriemaschinenmechaniker und -schlosser
+7234,Fahrradmechaniker und verwandte Berufe
+7311,Präzisionsinstrumentenmacher und -instandsetzer
+7312,Musikinstrumentenbauer und -stimmer
+7313,Schmuckwarenhersteller und Edelmetallbearbeiter
+7314,Keramiker und verwandte Berufe
+7315,"Glasmacher, -schneider, -schleifer und -veredler"
+7316,"Schildermaler, Dekormaler, Graveure und Ätzer"
+7317,"Kunsthandwerkliche Berufe für Holz, Korbwaren und verwandte Materialien"
+7318,"Kunsthandwerkliche Berufe für Textilien, Leder und verwandte Materialien"
+7319,"Kunsthandwerkliche Berufe, anderweitig nicht genannt"
+7321,Techniker in der Druckvorstufe
+7322,Drucker
+7323,Berufe in der Druckweiterverarbeitung und Buchbinder
+7411,Bauelektriker und verwandte Berufe
+7412,Elektromechaniker und verwandte Berufe
+7413,Elektroleitungsinstallateure und Wartungspersonal
+7421,Elektroniker und Elektronik-Servicetechniker
+7422,Installateure und Servicetechniker im Bereich Informations- und Kommunikationstechnik
+7511,"Fleischer, Fischhändler und -verarbeiter und verwandte Berufe"
+7512,"Bäcker, Konditoren und Konfektmacher"
+7513,Molkerei- und Käsereifachkräfte
+7514,Obst- und Gemüsekonservierer und verwandte Berufe
+7515,Nahrungsmittel- und Getränkekoster und -klassierer
+7516,Tabakaufbereiter und Tabakwarenmacher
+7521,Holztrockner und -konservierer
+7522,Möbeltischler und verwandte Berufe
+7523,Einrichter und Bediener von Holzbearbeitungsmaschinen
+7531,"Herren- und Damenschneider, Kürschner und Hutmacher"
+7532,Schnittmustermacher und Zuschneider
+7533,"Näher, Sticker und verwandte Berufe"
+7534,Polsterer und verwandte Berufe
+7535,"Pelzveredler, Gerber und Fellzurichter"
+7536,Schuhmacher und verwandte Berufe
+7541,Taucher
+7542,Sprengmeister und Sprengbeauftragte
+7543,Produkttester und -klassierer (ohne Nahrungsmittel und Getränke)
+7544,Kammerjäger und andere Schädlingsbekämpfungsberufe
+7549,"Handwerks- und verwandte Berufe, anderweitig nicht genannt"
+8111,Bergleute und Grubenarbeiter
+8112,Bediener von Mineral- und Gesteinsaufbereitungsanlagen
+8113,Tiefbohrer und verwandte Berufe
+8114,"Bediener von Maschinen zur Herstellung und Verarbeitung von Zement, Steinen und sonstigen Mineralien"
+8121,Bediener von Anlagen in der Metallerzeugung und -umformung
+8122,"Bediener von Anlagen zur Metallveredlung, Plattierung und Beschichtung von Metallen"
+8131,Bediener von Anlagen und Maschinen für chemische Erzeugnisse
+8132,Bediener von Anlagen für fotografische Erzeugnisse
+8141,Bediener von Maschinen zur Herstellung von Gummiwaren
+8142,Bediener von Maschinen zur Herstellung von Kunststoffwaren
+8143,Bediener von Maschinen zur Herstellung von Papierwaren
+8151,"Bediener von Spinnstoffaufbereitungs-, Spinn- und Spulmaschinen"
+8152,"Bediener von Web-, Strick- und Wirkmaschinen"
+8153,Bediener von Nähmaschinen
+8154,Bediener von Bleich- und Färbemaschinen
+8155,Bediener von Pelz- und Lederzurichtungs- und -vorbereitungsmaschinen
+8156,Bediener von Maschinen zur Schuhherstellung und verwandte Berufe
+8157,Bediener von Wäschereimaschinen
+8159,"Bediener von Maschinen zur Herstellung von Textil-, Pelz- und Lederwaren, anderweitig nicht genannt"
+8160,Bediener von Maschinen zur Herstellung von Nahrungs- und Genussmitteln
+8171,Bediener von Anlagen zur Zellstoff- und Papierherstellung
+8172,Bediener von Anlagen zur Holzaufbereitung
+8181,Bediener von Anlagen zur Glas- und Keramikherstellung
+8182,Bediener von Dampfmaschinen und -kesseln
+8183,"Bediener von Verpackungs-, Abfüll- und Etikettiermaschinen"
+8189,"Bediener stationärer Anlagen und Maschinen, anderweitig nicht genannt"
+8211,Berufe der Montage von mechanischen Bauteilen
+8212,Berufe der Montage von elektrischen und elektronischen Geräten
+8219,"Montageberufe, anderweitig nicht genannt"
+8311,Lokomotivführer
+8312,"Bediener von Sicherungs-, Signal- und Leittechnik im Schienennetzbetrieb"
+8321,Kraftradfahrer
+8322,"Personenkraftwagen-, Taxi-, Kleintransporter- und Kleinbusfahrer"
+8331,Busfahrer und Straßenbahnführer
+8332,Fahrer schwerer Lastkraftwagen
+8341,Führer von mobilen land- und forstwirtschaftlichen Maschinen
+8342,Führer von Erdbewegungs- und verwandten Maschinen
+8343,"Kranführer, Aufzugmaschinisten und Bediener verwandter Hebeeinrichtungen"
+8344,Gabelstaplerfahrer und verwandte Berufe
+8350,Deckspersonal auf Schiffen und verwandte Berufe
+9111,Reinigungspersonal und Hilfskräfte in Privathaushalten
+9112,"Reinigungspersonal und Hilfskräfte in Büros, Hotels und anderen Einrichtungen"
+9121,Handwäscher und Handbügler
+9122,Fahrzeugreiniger
+9123,Fensterputzer
+9129,Sonstiges Reinigungspersonal
+9211,Hilfsarbeiter im Ackerbau
+9212,Hilfsarbeiter in der Tierhaltung
+9213,Hilfsarbeiter in Ackerbau und Tierhaltung (ohne ausgeprägten Schwerpunkt)
+9214,Hilfsarbeiter im Gartenbau
+9215,Hilfsarbeiter in der Forstwirtschaft
+9216,Hilfsarbeiter in der Fischerei und Aquakultur
+9311,Hilfsarbeiter im Bergbau und in der Gewinnung von Steinen und Erden
+9312,Hilfsarbeiter im Tiefbau
+9313,Hilfsarbeiter im Hochbau
+9321,Verpacker
+9329,"Hilfsarbeiter bei der Herstellung von Waren, anderweitig nicht genannt"
+9331,Führer von Handwagen und pedalbetriebenen Fahrzeugen
+9332,Führer von Fahrzeugen und Maschinen mit Zugtierantrieb
+9333,Frachtarbeiter und verwandte Berufe
+9334,Regalbetreuer und -auffüller
+9411,Zubereiter von Fast Food und anderen Imbissen
+9412,Küchenhilfen
+9510,Auf der Straße arbeitende Dienstleistungskräfte und verwandte Berufe
+9520,Straßenverkäufer (ohne Lebensmittel)
+9611,Arbeiter in der Abfall- und Wertstoffsammlung
+9612,Arbeiter in der Abfallsortierung
+9613,Straßenkehrer und verwandte Berufe
+9621,"Boten, Paketauslieferer und Gepäckträger"
+9622,Gelegenheitsarbeiter
+9623,"Zählerableser, Automatenbefüller und -kassierer"
+9624,Wasserträger und Brennholzsammler
+9629,"Hilfsarbeitskräfte, anderweitig nicht genannt"
