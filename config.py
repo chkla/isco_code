@@ -111,7 +111,7 @@ def load_blacklist(file_path: str) -> set:
 DEFAULT_PATHS = {
     "blacklist_file": "data/blacklist.csv",
     "labeled_file": "data/isco_occupations.csv",
-    "unlabeled_file": "data/test/occupations_wave3.csv",
+    "unlabeled_file": "data/test/occupations_partner_wave3.csv",
     "output_file": f"results/occupations-test-labeled-wave3-{DEFAULT_LLM_MODEL}.csv"
 }
 

@@ -1,0 +1,91 @@
+2025-10-16 16:11:42,672 - isco_classifier - INFO - Logging initialized. Log file: logs/isco_classifier_20251016_161142.log
+2025-10-16 16:11:42,672 - isco_classifier - INFO - Starting ISCO classification pipeline with default settings
+2025-10-16 16:11:42,672 - pipeline.runner - INFO - Starting RAG pipeline for occupation classification
+2025-10-16 16:11:42,672 - pipeline.runner - INFO - Loading unlabeled data from data/test/occupations_partner_wave3.csv
+2025-10-16 16:11:42,673 - utils.helpers - INFO - Loaded DataFrame from data/test/occupations_partner_wave3.csv with 10 rows
+2025-10-16 16:11:42,673 - pipeline.runner - INFO - Mapping binary columns
+2025-10-16 16:11:42,682 - utils.helpers - INFO - Saved DataFrame with 10 rows to intermediate/binary_mapped.csv
+2025-10-16 16:11:42,682 - pipeline.runner - INFO - Running spell check
+2025-10-16 16:11:42,682 - models.spell_checker - INFO - Initializing spell checker with model gpt-4.1, education context: False
+2025-10-16 16:11:42,831 - models.spell_checker - INFO - Not using education context for spell checking
+2025-10-16 16:11:42,832 - models.spell_checker - INFO - Processing 10 rows with 5 workers
+2025-10-16 16:11:44,321 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-16 16:11:44,447 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-16 16:11:44,619 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-16 16:11:45,001 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-16 16:11:45,202 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-16 16:11:45,206 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-16 16:11:45,657 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-16 16:11:46,252 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-16 16:11:46,499 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-16 16:11:47,517 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-16 16:11:47,534 - models.spell_checker - INFO - 
+Spell check summary:
+2025-10-16 16:11:47,534 - models.spell_checker - INFO - Total entries processed: 10
+2025-10-16 16:11:47,534 - models.spell_checker - INFO - Entries corrected: 8
+2025-10-16 16:11:47,534 - models.spell_checker - INFO - Percentage corrected: 80.00%
+2025-10-16 16:11:47,534 - models.spell_checker - INFO - 
+Example corrections:
+2025-10-16 16:11:47,536 - models.spell_checker - INFO - Original: Krankenschwester 
+2025-10-16 16:11:47,536 - models.spell_checker - INFO - Corrected: Krankenschwester
+2025-10-16 16:11:47,536 - models.spell_checker - INFO - --------------------------------------------------
+2025-10-16 16:11:47,536 - models.spell_checker - INFO - Original: Sozial
+2025-10-16 16:11:47,536 - models.spell_checker - INFO - Corrected: Sozialarbeiter
+2025-10-16 16:11:47,536 - models.spell_checker - INFO - --------------------------------------------------
+2025-10-16 16:11:47,536 - models.spell_checker - INFO - Original: Sozialarbeiterin 
+2025-10-16 16:11:47,536 - models.spell_checker - INFO - Corrected: Sozialarbeiterin
+2025-10-16 16:11:47,536 - models.spell_checker - INFO - --------------------------------------------------
+2025-10-16 16:11:47,536 - models.spell_checker - INFO - Original: Apothekerin 
+2025-10-16 16:11:47,537 - models.spell_checker - INFO - Corrected: Apothekerin
+2025-10-16 16:11:47,537 - models.spell_checker - INFO - --------------------------------------------------
+2025-10-16 16:11:47,537 - models.spell_checker - INFO - Original: Sozial Arbeiterin 
+2025-10-16 16:11:47,537 - models.spell_checker - INFO - Corrected: Sozialarbeiterin
+2025-10-16 16:11:47,537 - models.spell_checker - INFO - --------------------------------------------------
+2025-10-16 16:11:47,538 - utils.helpers - INFO - Saved DataFrame with 10 rows to intermediate/corrected.csv
+2025-10-16 16:11:47,538 - pipeline.runner - INFO - Renaming corrected_Beschreibung to Beschreibung
+2025-10-16 16:11:47,539 - pipeline.runner - INFO - Creating or loading vector store
+2025-10-16 16:11:47,539 - models.vectorstore - INFO - Loading existing vector store...
+2025-10-16 16:11:47,572 - faiss.loader - INFO - Loading faiss.
+2025-10-16 16:11:47,806 - faiss.loader - INFO - Successfully loaded faiss.
+2025-10-16 16:11:47,820 - faiss - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-10-16 16:11:47,845 - pipeline.runner - INFO - Setting up LLM chain with model gpt-4.1
+2025-10-16 16:11:47,858 - pipeline.runner - INFO - Processing data with RAG
+2025-10-16 16:11:47,858 - pipeline.processing - INFO - Processing 10 rows with 5 workers
+2025-10-16 16:11:50,510 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-10-16 16:11:50,552 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-10-16 16:11:50,562 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-10-16 16:11:50,628 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-10-16 16:11:50,738 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-10-16 16:11:55,059 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-16 16:11:55,319 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-10-16 16:11:55,673 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-16 16:11:55,888 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-10-16 16:11:56,072 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-16 16:11:56,308 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-10-16 16:11:56,490 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-16 16:11:56,872 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-10-16 16:12:00,707 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-16 16:12:00,883 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-16 16:12:00,988 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-10-16 16:12:02,443 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-16 16:12:03,997 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-16 16:12:06,717 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-16 16:12:10,437 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-16 16:12:10,449 - pipeline.processing - INFO - 
+Processing Summary:
+2025-10-16 16:12:10,450 - pipeline.processing - INFO - Total entries processed: 10
+2025-10-16 16:12:10,450 - pipeline.processing - INFO - Cache Statistics:
+2025-10-16 16:12:10,450 - pipeline.processing - INFO - Total requests: 10
+2025-10-16 16:12:10,450 - pipeline.processing - INFO - Cache hits: 0
+2025-10-16 16:12:10,450 - pipeline.processing - INFO - Cache misses: 10
+2025-10-16 16:12:10,450 - pipeline.processing - INFO - Cache hit rate: 0.00%
+2025-10-16 16:12:10,450 - pipeline.processing - INFO - API calls saved: 0
+2025-10-16 16:12:10,452 - pipeline.runner - INFO - Saving intermediate results to intermediate/raw_predictions.csv
+2025-10-16 16:12:10,454 - utils.helpers - INFO - Saved DataFrame with 10 rows to intermediate/raw_predictions.csv
+2025-10-16 16:12:10,454 - pipeline.runner - INFO - Cleaning predictions
+2025-10-16 16:12:10,454 - data.preprocessing - INFO - Processing DataFrame with 10 rows
+2025-10-16 16:12:10,459 - data.preprocessing - WARNING - No 'Beschreibung' column found for filtering non-occupations
+2025-10-16 16:12:10,459 - pipeline.runner - INFO - Saving final results to results/occupations-test-labeled-wave3-gpt-4.1.csv
+2025-10-16 16:12:10,461 - utils.helpers - INFO - Saved DataFrame with 10 rows to results/occupations-test-labeled-wave3-gpt-4.1.csv
+2025-10-16 16:12:10,461 - pipeline.runner - INFO - Pipeline complete. Final results saved to results/occupations-test-labeled-wave3-gpt-4.1.csv
+2025-10-16 16:12:10,462 - isco_classifier - INFO - Pipeline completed successfully
